@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of both Houses of Parliament presented to His Majestie at Yorke, March 2, 1642 with His Majesties answer thereunto, and the petition of noblemen and gentlemen estated in Ireland, and now in London, and likewise the petition of the countie of Lincolne, with His Majesties severall and respective answers thereunto.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22202</idno><idno type="EEBO-CITATION">31355688</idno>
+  <idno type="VID">205844</idno>
+  <idno type="EEBO-PROQUEST">2264185370</idno>
+  
+            <idno type="STC">Wing E2160</idno>
+            <idno type="OCLC">31355688</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205844)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1738:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of both Houses of Parliament presented to His Majestie at Yorke, March 2, 1642 with His Majesties answer thereunto, and the petition of noblemen and gentlemen estated in Ireland, and now in London, and likewise the petition of the countie of Lincolne, with His Majesties severall and respective answers thereunto.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205844:1"/>
+            <pb facs="tcp:205844:1"/>
+            <pb facs="tcp:205844:2"/>
+            <pb facs="tcp:205844:2"/>
+            <p>THE PETITION OF Both Houses of Parliament, Presented to His <hi>Majestie</hi> at YORKE, March 26. 1642.</p>
+            <p>With his Majesties Answer thereunto.</p>
+            <p>AND The Petition of Noblemen and Gentle<g ref="char:EOLhyphen"/>men estated in <hi>Ireland,</hi> and now in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>And likewise the Petition of the Countie of Lincolne,</hi> With His Majesties severall and respective An<g ref="char:EOLhyphen"/>swers thereunto.</p>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon surmounted by a crown</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. C.</hi> 1642.</p>
+            <pb facs="tcp:205844:3"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_petition">
+            <pb facs="tcp:205844:3"/>
+            <head>To the Kings most Excellent Majesty.</head>
+            <head type="sub">The humble Petition of the Lords and Commons assembled in Parliament▪</head>
+            <opener>
+               <salute>May it please your Majesty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majesties most loyall Subjects, the Lords and Commons in Parliament, cannot conceive that the Declaration which your Majesty received from us at New-market, was such as did deserve that Censure Your Majesty was pleased to lay upon us, in that Speech which your Majesty made to our Committees there, and sent in writing to both Houses; Our addresse therein being accom<g ref="char:EOLhyphen"/>panied with Plainnesse, Humility, and Faithfulnesse, wee thought more proper for the removing the distraction of the Kingdom, then if we had then proceeded according to Your Majesties Mos<g ref="char:EOLhyphen"/>sage of the 20. of January, by which Your Majesty was pleased to desire, That we would declare what we inten<g ref="char:EOLhyphen"/>ded to doe for Your Majesty, and what we expected to be done for our selves, in both which we have been very much hindred by Your Majesties deniall to secure us and the whole Kingdome, by disposing the <hi>Militia,</hi> as we had divers times most humbly petitioned, and yet we have not beene altogether negligent of either, having late<g ref="char:EOLhyphen"/>ly made good proceedings in preparing a Book of Rates to be passed in a Bill of Tonnage and Poundage; and likewise the most materiall Heads of those humble desires which we intended to make to Your Majesty for the good and contentment of your Majesty and your people, but none of these could be perfected before the King<g ref="char:EOLhyphen"/>dome be put into safety, by setling the <hi>Militia:</hi> And untill Your Majesty shall bee pleased to concur with Your Parliament in these necessary things, wee hold it impossible for you to give the world, or your people such satis<g ref="char:EOLhyphen"/>faction concerning the Fears and Jealousies which we have expressed, as we hope your Majesty hath already re<g ref="char:EOLhyphen"/>ceived touching that exception which You were pleased to take to Master <hi>Pyms</hi> Speech.</p>
+            <p>As for your Majesties feares and doubts, the ground whereof is from Seditious Pamphlets and Sermons, we shall be as carefull to endeavour the removall as soone as we shall understand what Pamphlets and Sermons are by your Majesty intended, as we have beene to prevent all dangerous tumults: And if any extraordinary con<g ref="char:EOLhyphen"/>course of people out of the City of Westminster had the face and shew of Tumult and danger in your M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jesties apprehension, it will appear to be caused by your Majesties deniall of such a guard to your Parliament as they might have cause to confide in; And by taking into White-hall such a guard for your selfe as gave just cause of jealousie to the Parliament, and of terrour and offence to your people. Wee seeke nothing but your Majesties ho<g ref="char:EOLhyphen"/>nour, and the peace and prosperity of your Kingdomes; And we are heartily sory we have such plentiful matter of an answer to that question, <hi>Whethe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> You had violated our Lawes.</hi> We beseech your Majesty to remember, that the government of this Kingdom, as it was in a great part mannaged by your M<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>isters before the beginning of this Parliament, consisted of many continued and multiplied acts of violation of Lawes, the wounds whereof were scarcely healed, when the extremity of all those violations was far exceeded by the late strange and unheard of breach of our Lawes in the accusation of the Lord <hi>Kymbolton,</hi> and the five Members of the Commons House, and in the proceedings thereupon, for which we have yet received no full satisfaction.</p>
+            <p>To your Majesties next Question, [Whether you had denied any Bill for the ease and security of your Sub<g ref="char:EOLhyphen"/>jects,] Wee wish we could stop in the midst of our answer, That with much thankfullnesse wee acknowledge that Your Majesty hath past many good Bills full of contentment, and advantage to Your People; But truth and necessitie inforceth us to adde this, That even in or about the time of passing those Bills, some designe or other hath beene on foot, which if it had taken effect, would not onely have deprived us of the fruit of those Bills, but have reduced us to a worse condition of confusion then that wherein the Parliament found us.</p>
+            <p>And if Your M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jesty had asked us the third question intimated in that Speech, [What we had done for Your Selfe,] our Answer would have beene much more easie, That we have paid two Armies, wherewith the King<g ref="char:EOLhyphen"/>dom was burdened last yeer; And have undergone the charge of the Warre in Ireland at this time; When through many other excessive Charges and Pressures, whereby Y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Subjects have beene exhausted, and the Stock of the Kingdome very much diminished▪ Which great mischiefs, and the charges thereupon ensuing, have beene occa<g ref="char:EOLhyphen"/>sioned by the evill counsels so powerfull with Your Majesty, which have, and will cost this Kngdome more then two Millions: All which in Justice ought to have beene borne by Your Majesty.</p>
+            <p>As for that free and generall Pardon Your Majesty hath beene pleased to offer, it canbee no security to our Fears and Jealousies, for which Your Majesty seemes to propound it, because they arise not from any guilt of our owne Actions, but from the evill Designes and Attempts of others.</p>
+            <p>To this our humble Answer to that Speech, we desire to adde an Information which we lately received from the deputie Governour of the Mar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hant Adventurers at Rotterdam in Holland, That an unknowne person ap<g ref="char:EOLhyphen"/>pertaining to the Lord <hi>Digby,</hi> did lately solicite one <hi>Iames Henley</hi> a Mariner to goe to Elsenore, and to take charge of a Ship in the Fleet of the King of Denmark there prepared, which he should conduct to Hull▪ In which <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> likewise, he said a great Army was to be transported. And al<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h we are not apt <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o give credit to Inform <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:205844:4"/> of this nature, yet we cannot altogether thinke it fit to be neglected, but that it may justly adde somewhat to the weight of our Fears and Jealousies considering with what circumstances it is accompanied, With the Lord <hi>Digbies</hi> preceding Expressions in his letter to Her Majesty, and Sir <hi>Lewis Dives,</hi> And Your Majesties succeeding course of withdrawing Your selfe Northward from Your Parliament, in a manner very sutable, and correspondent to that evill Counsell.</p>
+            <p>Which we doubt will make much deeper impression in the generality of Your People; And therefore we most humbly advise and beseech Your Majesty for the procuring and setling the confidence of Your Parliament, and all Your Subjects, &amp; for the other important reasons, concerning the recovery of Ireland, and securing this Kingdom, which have beene formerly presented to your Majesty, You will be graciously pleased (with all convenient speed) to return to these parts, and to close with the counsell and desire of your Parliament, where You shall finde their dutifull affections and endeavors ready to attend Your Majesty with such entertainment, as shall not onely give Your Majesty just cause of security in their faithfulnesse, but other manifold evidences of their earnest intentions and endeavours to advance your Majesties service, honour, and contentment, and to establish it upon the sure foundation of the Peace and Prosperite of all Your Kingdomes.</p>
+         </div>
+         <div type="reply_to_Parliaments_petition">
+            <head>His Majesties answer to the Petition of both Houses of Parliament.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F you would have had the patience to have expected Our Answer to your Declaration (which, considering the nature of it, hath not been long in com<g ref="char:EOLhyphen"/>ming) We beleeve you would have saved your selves the labour of saying much of this Message. And Wee could wish that our Priviledges on all parts were so Stated, that this way of Correspondency might be preserved with that Freedome which hath been used of old: For We must tell you, that if you may aske any thing of Vs by Message or Petition, &amp; in what language (how un<g ref="char:EOLhyphen"/>usuall soever) you thinke fit, and we must neither deny the thing you aske, nor give a rea<g ref="char:EOLhyphen"/>son why We cannot grant it, without being taxed of breaking your Priviledges, or being counselled by those who are enemies to the Peace of the Kingdome, and favourets of the Irish Rebellion (for we have seen your printed Votes, upon Our Message from Huntington) you will reduce all Our Answers hereafter into a very little room; In plain English, it is to take away the Freedome of Our Vote, which were We but a Subject, were high Inju<g ref="char:EOLhyphen"/>stice; but being your King, we leave all the world to judge what it is.</p>
+            <p>Is this the way to compose all misunderstandings? We thought We shewed you one by Our Message of the 20. of Ianuary, if you have a better or readier, We shall willingly hearken to it, for hitherto you have shewed Vs none. But why the refusall to consent to your Order, (which you call a deniall of the <hi>Militia)</hi> should be any interruption to it, Wee cannot understand. For the <hi>Militia</hi> (which We alwaies thought necessary to be settled) We never denied the thing (as We told you in Our Answer of the 28. of Ianuary, to the Petition of the House of Commons, for We accepted the persons, (except for Corporati<g ref="char:EOLhyphen"/>ons) We onely denied the way. You aske it by way of Ordinance, and with such a preface as We can neither with Iustice to Our Honour, or innocency consent to: You exclude Vs for any power in the disposition or execution of it, together with you, and for a time utterly unlimited. We tell you We would have the thing done; Allow the persons (with that exception;) Desire a Bill (the onely good old way of imposing on Our Subjects.) We are extreamely unsatisfied what an Ordinance is, but well satisfied, that without Our Con<g ref="char:EOLhyphen"/>sent it is nothing, not binding: And it is evident by the long time spent in this Argument, the necessity and danger was not so imminent, but a Bill might have well been prepared, which if it shall yet be done with that due regard to Vs, and care of Our People, in the li<g ref="char:EOLhyphen"/>mitation of the power and other circumstances, We shall recede from nothing We for<g ref="char:EOLhyphen"/>merly expressed in that Answer to your Order, otherwise we must declare to all the world, That We are not satisfied with, or shall ever allow Our Subjects to be bound by your prin<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:205844:4"/> Votes, of the 15, or 16. of this month or that under pretence of declaring what the Law of the Land is, you shall without Vs make a new Law, which is plainly the case of the <hi>Militia:</hi> And what is this but to introduce an Arbitrarie way of Government?</p>
+            <p>Concerning <hi>Pyms</hi> Speech, you will have found by what the Lord <hi>Compton,</hi> and Mr. <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynton</hi> brought from Vs, in answer to that Message they brought to Vs, that as yet Wee rest nothing satisfied in that particular.</p>
+            <p>As for the seditious Pamphlets and Sermons, Wee are both sorry and ashamed in so great a variety, and in which Our Rights, Honour and Authority, are so insolently slighted and vilified, and in which the Dignity and freedome of Parliament is, so much invaded and violated, it should be asked of Vs to name any; the mentioning of the <hi>Protestation prote<g ref="char:EOLhyphen"/>sted</hi> the <hi>Apprentices Protestation, To your Tents O Israel,</hi> or any other, would be too great an excuse for the rest, If you think them not worth your inquiry, We have done. But We thinke it most strange, to be told, That our deniall of a Guard (which We yet never denied, but granted in another manner, and under a Command at that time most accustomed in the Kingdome) or the deniall of any thing else (which is in our power legally to deny) which in our understanding (of which God hath surely given Vs some use) is not fit to be granted, should be any excuse for so dangerous concourse of people, which not onely in Our apprehension, but (we beleeve) in the interpretation of Law it selfe, hath beene al<g ref="char:EOLhyphen"/>waies held most tumultuous and seditious. And We must wonder, what, and whence comes the Instructions and Informations that those people have, who can so easi<g ref="char:EOLhyphen"/>ly thinke themselves obliged by the Protestation to assemble in such a manner for the de<g ref="char:EOLhyphen"/>fence of Priviledges, which cannot be so clearly knowne to any of them, and so negligent<g ref="char:EOLhyphen"/>ly passe over the consideration, and defence of our Rights so beneficiall and necessary for themselves, and scarce unknowne to any of them, which by their Oaths of Allegiance and Supremacy (and even by the same Protestation) they are at least equally obliged to de<g ref="char:EOLhyphen"/>fend. And what interruptions such kinde of assemblies may bee to the freedome of future Parliaments (if not seasonably discountenanced and suppressed) Wee must advise you to consider, as likewise whether both Our powers may not by such meanes bee usurped, by hands not trusted by the constitution of this Kingdome. For Our Guard, We referre you to Our answer to your Declaration.</p>
+            <p>By that question of violating your Lawes; By which We endeavoured to expresse Our care and resolution to observe them; We did not expect you would have beene invited to have looked backe so many yeares, for which you have had so ample reparation; Nei<g ref="char:EOLhyphen"/>ther looked We to be reproached with the Actions of Our Ministers (then against the Lawes) whilst We expresse so great a zeale for the present defence of them, it being Our Resolution, upon observation of the mischiefe which then grew by Arbitrary power (though made plausible to Vs by the suggestions of necessity and imminent danger, and take you heed ye fall not into the same errour upon the same suggestions) hereafter to keep the Rule Our self, &amp; to Our power require the same from all others: But above all We must be most sensible of what you cast upon Vs for requitall of those good Bills you cannot deny. We have denied any such designe, and as God almighty must judge in that point betweene Vs, who knowes Our upright intentions at the passing those Lawes: So in the meane time We defie the Divell to prove that there was any designe (with Our know<g ref="char:EOLhyphen"/>ledge or privity) in or about the time of passing those Bills, that had it taken effect could have deprived Our Subjects of fruit of them: And therefore We demand full reparation in this point, that We may be cleared in the sight of all the world, and chiefly in the eyes of our loving Subjects, from so notorious and false an imputation as this is.</p>
+            <p>We are far from denying what you have done, For We acknowledge the charge our
+<pb facs="tcp:205844:5"/> people have sustained in keeping the two Armies, and in relieving <hi>Ireland,</hi> of the which We are so sensible, that in regard of those great Burthens Our People have undergone, We have and do patiently suffer those extreme personall wants, as Our Predecessours have been seldome put to, rather then We would presse upon them: which We hope (in time) will be considered on your parts.</p>
+            <p>In Our offer of a Generall Pardon, Our intent was to compose and secure the generall condition of Our Subjects, conceiving that in these times of great Distractions, the good Lawes of the Land have not been enough observed; But it is a strange world when Princes Profered Favors are counted Reproaches: yet if you like not this Our offer We have done.</p>
+            <p>Concerning any discourses of Forreign Forces, though We have given you a full Answer in Ours to your last Declaration, yet We must tell you, We have neither so ill an opinion of Our own merit, or the Affections of Our good Subjects, as to think Our self in need of any Forreign Force to preserve Vs from Oppression (and We shall not need for any other purpose) but are confident (through Gods providence) not to want the good wishes and assistance of the whole Kingdome, being resolved to build upon that sure Foundation, the Law of the Land. And We take it very ill that any generall Discourses betweene an un<g ref="char:EOLhyphen"/>known Person and a Mariner, or inferences upon Letters should be able to prevail in mat<g ref="char:EOLhyphen"/>ters so improbable in themselves, and scandalous to Vs, for which We cannot but likewise ask Reparation, not onely for the vindicating of Our Own Honour, but also therby to settle the mindes of Our Subjects, whose Feares and Iealousies would soon vanish, were they not fed and maintained by such false and malicious Rumours as these.</p>
+            <p>For our return to Our Parliament, We have given you a full Answer in Ours to your De<g ref="char:EOLhyphen"/>claration, and you ought to look on Vs as not gone but driven (We say not by you, yet) from you. And if it be not so easie for you to make Our Residence in London so safe as We could desire, We are, and will be contented that Our Parliament be adjourned to such a place, where We may be fitly and safely with you. For though we are not pleased to be at this distance, yet yee are not to expect Our Presence, Vntill ye shall both secure Vs con<g ref="char:EOLhyphen"/>cerning Our just apprehensions of Tumultuary insolencies, And likewise give Vs satisfacti<g ref="char:EOLhyphen"/>on for those Insupportable and Insolent Scandals that are raised upon Vs.</p>
+            <p>To conclude, As We have or shall not Refuse any way agreeable to Iustice or Honour, which shall be offered to Vs for the begetting a right understanding between Vs, So We are Resolved, that no streights or necessities (to which We may be driven) shall ever com<g ref="char:EOLhyphen"/>pell Vs to do that, which the Reason and Vnderstanding that God hath given Vs, and Our Honour and Interest, with which God hath trusted Vs for the good of Our Posterity and Kingdoms, shall render unpleasant and grievous unto Vs.</p>
+            <p>And We assure you that (how meanly soever you are pleased to value the discharge of Our publique dutie) We are so Conscious so to Our self of having done Our part, since this Parliament, that in whatsoever condition We now stand, We are confident of the conti<g ref="char:EOLhyphen"/>nued Protection from Almighty God, and the constant gratitude, obedience, and affection from Our people: And We shall trust God with all.</p>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:205844:5"/>
+            <head>
+               <hi>To the Kings most Excellent Majestie,</hi> The humble Petition of divers Noblemen and Gentlemen Estated in <hi>Ireland,</hi> now at <hi>London.</hi>
+            </head>
+            <opener>Humbly sheweth,</opener>
+            <p>THat most of Your Petitioners, and many thousands of Your Majesties most faithfull Subjects, and late Inhabitants of Your Kingdom of <hi>Ireland,</hi> being robbed, and spoiled of all their sub<g ref="char:EOLhyphen"/>stance (and thereby many of them reduced to a most miserable condition, who formerly faith<g ref="char:EOLhyphen"/>fully served Your Majestie) are now enfored to flee into this Kingdom, by occasion of the unexampled, bloodie, &amp; unhuman cruelties of the Rebels of that Kingdom, who through the instigatiō of Popish Priests, Friers, &amp; Jesuits and other malignant persons, have risen in Arms in that Kingdom against Your Majesties Crown and Dignity, and destroyed, or banished almost all Your Majesties loyall and dutifull Subjects the Protestants there for no other cause, but for that they do not worship God after their Idolatrous and Superstitious maner; which is manifest by their publike Declarati<g ref="char:EOLhyphen"/>ons, Speeches, Oathes, and Confederacies (abeit some few other fond pretences are added, to glosse their most barbarous actions) That these four moneths past, the expectation of powerfull Supplies, Treasure, and Ammunition, from <hi>England</hi> and <hi>Scotland;</hi> hath supported the drooping and lan<g ref="char:EOLhyphen"/>guishing spirits of your Petitioners and others, the Protestants, interessed in that Kingdom, who finding but small Succours hitherto sent thither notwithstanding the severall Orders of both Houses of <hi>Parliament,</hi> do now with unspeakable grief of heart, apprehend nothing but despaire of ever being restored to their habitations, if Your Majestie be not graciously pleased to give life and power to the painfull endeavours of both Houses of Parliament, the prosecutio of that War necessarily requiring a great sum of money to be presently raised. And in all humility, The Petitioners conceive, the Act lately passed by Your Majesties Royall Grace and goodnesse, (upon the Propositions made by those who shall adventure their Moneys) to be the onely way left for raising present Money for that work: And they finde that the removall of Your Sacred Majesty to places so remote, and distant from the Parliament, doth much discourage the Adventurers, in advancing Monys for effectuall proceeding in the work, and consequently will be a means, unavoidably to retard the long expected Supplies, con<g ref="char:EOLhyphen"/>trary to Your Majesties Royall intentions often expressed, and will much encourage the Rebells, and their adherents in that Kingdom, and may▪ in the opinion of some, (as they faine) gain a belief of those false reports, which divers of the Rebells have taken the boldnesse to raise, even very lately, since the publishing of Your Majesties Proclamation for suppressing the Rebells, That they are Your Maje<g ref="char:EOLhyphen"/>sties Souldiers &amp; that the supplies that arrived there, were but the Parliamenp suppl<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t. And Your further Petitioners humbly shew, That if strong Forces be not presently raised, &amp; transported thither, (the season of the yeer now serving) the British and Protestants in that Kingdom cannot long Subsist, but will be extirpated, and Papists, and the Idolatrous Masse thereby established, which is already publikely used in most of the Churches of that Kingdom.</p>
+            <p>May it therefore please Your most Sacred Majestie, to reflect upon the desperate, and miserable condition of that poor Kingdom, and weighing the Premisses and other the Consequences of de<g ref="char:EOLhyphen"/>laying the effectuall setting forward of the War against the Rebells in <hi>Ireland;</hi> of Your Prince<g ref="char:EOLhyphen"/>ly goodnesse and wisdom, to vouchsafe Your Majesties presence unto Your Parliament, for the encouragement of the Adventurers, and all other Your Majesties good Subjects, in this Pious work; for the discouragement of the Rebells, and for expediting such further Acts, Commissions, and Warrants to issue, as shall be requisite for the preservation of the rem<g ref="char:EOLhyphen"/>nant of Your good Subjects, the Protestants yet left in <hi>Ireland,</hi> or driven for the present thereout.</p>
+            <closer>And Your Suppliants will pray, &amp;c.</closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:205844:6"/>
+            <head>
+               <hi>To the Kings most excellent Majesty,</hi> The humble Petition of His Majesties loving subjects in the County of <hi>LINCOLNE.</hi>
+            </head>
+            <p>IN all humility representing at our thankefullest acknowledgements to God, and to Your Ma<g ref="char:EOLhyphen"/>jesty of the great blessings which we have for these many yeares enjoyed under your gracious go<g ref="char:EOLhyphen"/>vernment, and particularly the blessed fruits of this present Parliament, by your Majesties wise<g ref="char:EOLhyphen"/>dome and goodnesse assembled, whereby many wholsome Lawes have been enacted, for the great Honour of your Majesty, reliefe of your people, the prosperous government of this, and happy setling of the late troubles in both Kingdomes: So our saddest Regrete for any the least misunderstanding and differences which have happened betwixt your sacred Majesty, and the said Parliament, or any Members of the same, with our many distractions thereupon, and feares of the utter ruine of your Majesty, and your Royall Posterity and Kingdomes, by the malicious and insolent Designes of the Popish party, and the advantage that forraigne enemies may easily take thereby.</p>
+            <p>Humbly prestrating our selves at your Majesties feet, most affectionately pray, that your Majesty and Parliament may by all good meanes be firmly united. And for that purpose you would graciously please to reside neere, and listen unto the faithfull counsels of your said Parliament, whereby Romish Idolatry and Superstition may bee extirpated, Church and Common-wealth duly reformed, the true Religion and all things else setled in a blessed peace under your Majesties government. And we shall have still further cause to continue our cheerfull aids, both of per<g ref="char:EOLhyphen"/>sons and estates for your Majesties and your Kingdomes prosperity and honour. And ever pray for your Majesties long and happy Reigne over us.</p>
+         </div>
+         <div type="reply_to_petitions">
+            <head>His Majesties answer to the two former Petitions.</head>
+            <opener>
+               <dateline>At the Court at York <date>28. Martii, 1642.</date>
+               </dateline>
+            </opener>
+            <p>HIs Majesty hath given me expresse command to give you this His answer to your Petitions, That this Petition (as some others of this nature) is grounded upon mis-information, and (being grieved &amp; highly offended, to see how his good peo<g ref="char:EOLhyphen"/>ple have been and are abused, by false rumours and intelligences, which have procured causlesse feares and apprehensions) referres the Petitioners to the two Answers He hath given to His Parliament, <hi>viz.</hi> to the Declaration presented to Him at <hi>New<g ref="char:EOLhyphen"/>market,</hi> and to the Petition presented to Him the 26. of this Moneth at <hi>Yorke:</hi> wherein you will clearly perceive that His Majesty is not gone, but driven from His Parliament; And therefore His Majesty hath reason to thinke, that now (understanding the love He beares to, and confidence He hath of His peoples fidelity; as likewise His constant resolution for the maintaining of, and governing by the Lawes of the Land) you may finde reason to Petition the Parliament to comply with His Majesties just Desires, and gracious Offers, this being the onely way safely and speedily to cure the present Distractions of this King<g ref="char:EOLhyphen"/>dome, and (with Gods blessing) to put a happy end to the Irish Rebellion, for the effe<g ref="char:EOLhyphen"/>cting whereof (as His Majesty hath often said) He will neither spare paines, nor decline a<g ref="char:EOLhyphen"/>ny hazard of His Person or Fortune.</p>
+            <closer>
+               <signed>Signed by Mr. Secretary <hi>Nicholas.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205844:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
